@@ -27,7 +27,7 @@ setup(
                  'pose estimation and image classification.'),
     long_description=README,
     long_description_content_type='text/markdown',
-    url='https://github.com/ultralytics/ultralytics',
+    url='https://github.com/cosinus01/ultralytics',
     project_urls={
         'Bug Reports': 'https://github.com/ultralytics/ultralytics/issues',
         'Funding': 'https://ultralytics.com',
